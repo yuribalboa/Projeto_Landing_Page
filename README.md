@@ -15,7 +15,12 @@ Este projeto é uma landing page minimalista, criada para demonstrar boas práti
 
 ## 📂 Estrutura de Arquivos
 
-📦 Landing Page ├── index.html # Estrutura principal da página ├── style.css # Estilos customizados ├── index.js # Scripts para interatividade ├── Cards, Icones, Imagens/ # Imagens, ícones e outros recursos └── README.md # Documentação do projeto
+📦 Landing Page 
+  ├── index.html # Estrutura principal da página 
+  ├── style.css # Estilos customizados 
+  ├── index.js # Scripts para interatividade 
+  ├── Cards, Icones, Imagens/ # Imagens, ícones e outros recursos 
+  └── README.md # Documentação do projeto
 
 ## 🚀 Tecnologias Utilizadas
 
